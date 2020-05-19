@@ -1,1 +1,3 @@
-# transformer_tutorial
+# Transformer Classification
+- TransformerのEncoderにclassificationモジュールを組み込んで文書分類モデル化
+- PyTorchで実装
